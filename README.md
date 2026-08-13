@@ -1,3 +1,5 @@
+- Ce site est uniquement ici pour apprendre le developpement web en autodidacte 
+
 # coucou 
 hello world
 - coucou encore 
@@ -14,6 +16,3 @@ hello world
 ```bash
 git clone
 ```
-salut
-c'est moi 
-rodriguez
